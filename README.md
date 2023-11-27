@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
 ## To run the development server (http://localhost:5173/)
-num run dev / yarn dev
+### num run dev / yarn dev
 
 
 ##
